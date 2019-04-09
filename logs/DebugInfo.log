@@ -1,0 +1,151 @@
+17:40:04,701 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+18:51:15,573 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+19:25:21,323 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+19:26:18,901 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+19:27:33,031 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+19:27:49,971 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+19:28:44,604 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+19:29:38,850 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+19:30:26,125 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+17:05:32,946 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+23:11:32,236 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+23:12:10,341 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+23:28:48,445 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+23:32:17,681 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+23:32:54,615 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+23:32:54,630 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+23:49:30,014 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+23:49:30,065 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:10:44,835 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+00:10:44,858 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:13:34,176 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+00:13:34,213 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:13:50,325 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+00:13:50,354 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:43:24,107 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+00:43:24,193 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:43:24,193 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:43:24,545 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:45:08,087 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+00:45:08,131 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:45:08,132 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:45:08,133 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:45:08,134 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:45:08,171 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:45:08,174 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:45:08,176 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:45:08,177 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:46:30,167 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:37) - Cube isn`t cut by Oxy. Returned zero.
+00:46:30,216 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+00:46:30,217 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:42) - IncorrectFile.
+00:46:30,420 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+22:47:58,946 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+22:47:58,977 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+22:47:58,977 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+22:47:59,062 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:40:48,394 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+13:40:48,419 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:40:48,419 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+13:40:48,529 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:02:59,674 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+13:02:59,757 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:02:59,758 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+13:02:59,912 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:08:28,435 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+13:08:28,458 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:08:28,459 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+13:08:28,564 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+19:02:42,714 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+19:02:42,897 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+19:02:42,898 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+19:02:43,001 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+19:03:26,458 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+19:03:26,497 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+19:03:26,498 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+19:03:26,603 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+16:21:00,751 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+16:21:00,918 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+16:21:00,919 [WARN ] (ListShapesCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+16:21:01,230 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+20:11:44,735 [WARN ] (CubeCalculator.java:getRatioVolumesOfPartsAfterCuttingOxy:36) - Cube isn`t cut by Oxy. Returned zero.
+20:11:44,776 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+20:11:44,776 [WARN ] (ListShapeCreatorFromFile.java:getListOfCubes:43) - IncorrectFile.
+20:11:44,856 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+23:27:22,335 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+23:27:58,197 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+23:27:58,207 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+23:40:54,919 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+23:40:54,939 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+23:40:55,009 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:15:23,997 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+11:15:24,065 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:15:24,163 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:21:31,055 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+11:21:31,094 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:21:31,205 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:56:05,672 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+11:56:05,710 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:56:05,793 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:58:22,441 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+11:58:22,485 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+11:58:22,637 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:30:33,198 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:30:33,231 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:30:33,320 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:02,694 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:31:02,732 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:02,823 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:14,544 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:31:14,576 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:14,672 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:24,798 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:31:24,830 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:24,917 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:39,158 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:31:39,204 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:31:39,312 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:32:00,166 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:32:00,198 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:32:00,279 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:32:12,289 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:32:12,320 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:32:12,419 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:33:01,050 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:33:01,082 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:33:01,189 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:34:55,778 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:34:55,804 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:34:55,879 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:35:08,883 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:35:08,913 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:35:09,010 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:35:42,817 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:35:42,846 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:35:42,939 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:36:11,211 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:36:11,240 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:36:11,329 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:44:57,161 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:44:57,190 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:44:57,270 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:47:56,901 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:47:56,929 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:47:57,028 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:49:46,251 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+12:49:46,286 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+12:49:46,389 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:17:01,085 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+13:17:01,115 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:17:01,193 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:18:05,734 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+13:18:05,766 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:18:05,838 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:19:01,330 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+13:19:01,370 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:19:01,474 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:19:26,092 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+13:19:26,118 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:19:26,204 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:21:14,327 [WARN ] (CubeCalculator.java:calculateRatioVolumesOfPartsAfterCuttingOxy:38) - Cube isn`t cut by Oxy. Returned zero.
+13:21:14,373 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
+13:21:14,494 [WARN ] (FileReader.java:<init>:25) - File wasn`t open.
